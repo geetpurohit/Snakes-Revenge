@@ -20,6 +20,8 @@ Snake-kun sucessfully performed the Summoning Jutsu and is back in the digital w
 
 <details> 
   <summary> The Ancient Exponent </summary>
+    <img src="exponent.PNG"/>
+    
     The Ancient Exponent is a long-forgotten calamity. Eons ago, its exponential prowess was feared throughout nations but the dragon slayer knight Euler slayed him, and it went into an eternal slumber. However, now it is back and has formed an alliance with Snake-kun. 
     
     • Effect - Every time the Snake consumes the Ancient Exponent, its length double
@@ -38,6 +40,8 @@ Snake-kun sucessfully performed the Summoning Jutsu and is back in the digital w
 
 <details> 
   <summary> The Emmissary of Poison </summary>
+    <img src="death.PNG"/>
+    
     Nothing is currently known about the Emissary of Poison. 
     
     • Effect - Instant death on contact.
