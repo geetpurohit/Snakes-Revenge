@@ -8,7 +8,7 @@
 # Overview
 After facing defeat at the hands of the user, Snake-kun decided to go on an anime arc training journey. Hatred, anger, defeat, and most importantly, utter humiliation... these are the feelings that Snake-kun would face when he thought about you defeating the game. 
 
-![SnekCry](![image](https://user-images.githubusercontent.com/68968629/143840970-4b314a41-4075-48a7-869e-8d4cbaf92588.png))
+![image](https://user-images.githubusercontent.com/68968629/143840970-4b314a41-4075-48a7-869e-8d4cbaf92588.png)
 
 Embarking on a journey to discover itself, Snake-kun was isekaied into the Real World. Here, he wandered every nook and cranny of the world, until he met some allies that had similar ambitions as him. He found the Emmissary of Poison, the Essence of Time, and lastly the Ancient Exponent. With newfound allies, Snake-kun was ready to wreck havoc on YOU!
 
