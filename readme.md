@@ -8,9 +8,9 @@
 # Overview
 After facing defeat at the hands of the user, Snake-kun decided to go on an anime arc training journey. Hatred, anger, defeat, and most importantly, utter humiliation... these are the feelings that Snake-kun would face when he thought about you defeating the game. 
 
-add image here snake crying
+![SnekCry](![image](https://user-images.githubusercontent.com/68968629/143840970-4b314a41-4075-48a7-869e-8d4cbaf92588.png))
 
-Embarking on a journey to discover itself, Snake-kun was isekaied into the Real World. Here, he wandered every nook and cranny of the world, until he met some allies that had similar ambitions as him. He found the Emmissary of Poison (add poison image), the Essence of Time (add super food image), and lastly the Ancient Exponent (add food image). With newfound allies, Snake-kun was ready to wreck havoc on YOU!
+Embarking on a journey to discover itself, Snake-kun was isekaied into the Real World. Here, he wandered every nook and cranny of the world, until he met some allies that had similar ambitions as him. He found the Emmissary of Poison, the Essence of Time, and lastly the Ancient Exponent. With newfound allies, Snake-kun was ready to wreck havoc on YOU!
 
 # CRISIS
 
@@ -28,6 +28,9 @@ Snake-kun sucessfully performed the Summoning Jutsu and is back in the digital w
 
 <details> 
   <summary> The Essence of Time </summary>
+    <image/>
+    ![image](https://user-images.githubusercontent.com/68968629/143841299-8b0128cf-2b9c-4904-90ec-1e4e1707a901.png)
+    <image>
     The Essence of Time is the sister to the Permissibility of Space. Together, the sisters Space-Time weave the Universe you and I live in. Our scouts have investigated the following: 
     
     • Effect - Every time the Snake consumes the Essence of Time, it goes beserk and gains 400% move speed. 
@@ -39,7 +42,7 @@ Snake-kun sucessfully performed the Summoning Jutsu and is back in the digital w
     The Emissary of Po ţ̷̛̊́̑́͂͌̋̀̎̈̓̓̚͘h̷̨̡̫̰̬̝͓͎̯̗̮̱́̈́̾̾͗̊̑͠ẹ̸̡̢̽̉̂̊͋̇͂̀̓̌̆̑͛͘ ̸̧̥͈̼̟̞̣̳̯̘͉̙̯̰͔̽̀̒̎̆̄̏̽̕͝e̸̡̥̦̙̭̗̱͈͆̾̈́͠ͅs̵̡̹̦̫̜̭̳͍̈̎̃̈́͋̇͆̓͝ṣ̵̨̢̡̡̗̯̦͙̣̜̜͖͌̽̈̏̽͆̃̄͌̃̕̚e̴̦̝͇̅̎͠n̵̨̨̘͔̗͖̫̖̟̦̄̎̊͐̈̀ͅͅc̴̛̫̘̈́̓́́͂̾͆͊͌͐̈́̂͝é̴̡̤͝ ̸̢̨̧͍͚̟̬̫̘̻̾͂̓͌̇̆̅͑̐̿̄̚͠͝ͅͅo̶̯͈͚̜͆͒̎̎͘͠f̶̢̡̡̧̗̤̬̣͙̪̞̼͕̓̑̂̓̓̕ ̷̧̧̣̩̯͔͓̯͖̼̥̜̣̿̈̚͜ͅṔ̶̳̤̭̱̣͔̦͋̿̑̑̓̀̊́͐͘̚ͅỜ̷͓͉̲͖̇̍͊̎̋̋͑͌̔͋͘ ̷̢̧̦̲̞͕͚͔̾̈́̉͋͋͗͐̍͋̚͘͜͜͜͜͝͠ͅ ̴̭͛͛̍̅̓̂̈́͝͝ ̸̻͍̤͍̬̬̜̤̼̰̰͙̦̳̃́͊̚͘H̷̖͔̜͙̹̯̦̰̟͆E̴̼̰̾͊̽̈́́͒͠L̷̡͈̬̈́̓̎̔̎̔̐̐̂̚͝P̷͇̠͙̭̠͑̎̂̑̉̇́̀͜͜ ̵̨̥̣̣̯̦̭̮̗͎̥̈͑ͅ ̴̢̧͔͓͚̩͖̘̼̩̼̂̒̑̆̈̆̀̿̚̕͠͠ ̴̝̥̗̙̈͐͒ ̵̡̻̦͖͔̖͚͖̗̲͚͇͇̂͊͛ ̶̡̪͍̼͎̺̳̺̩̩̝̭̗̗̑̓͒̍́̓͘͝Į̵̢͈̺̹͍̩̳͎̖͈̱̈́͐̍Ť̵͇̜̱̖̪̦͂̂ ̷̢̧̡̗̭̙̰̣͉̠̉̅́͌̈̕͜ͅḦ̷̝́Ü̴̟̖͚͕̳̹̰̹̲͉̪͉͋̚͜͜͝ͅR̶̨̧̡̲̫̼̠̪̖̐̃̅̒̽͛̋̽͋̉̎͘Ṫ̸͙̭̝̪̞̱͎̞͙̦͓͔̮͕͉̈́̈́̆̋̈́̓̐S̵̺̯̜̟̲͆̏̇́͐̃͒͑̇̀̃͝ ̷͍̥͎̺͉̀̄̄̒̄̄̂̃̍̍̐͠͝ͅͅH̶͚̲̲̟̐̃͂͗̓́̉͜E̴̡̯̙̱͖͇͒̄͒̂̆͌͝Ĺ̶͓̟͖͉͈̱̹̰̘̯̈́͆̌̅̀̍̿P̶̨̧̦͕͓̝͕̝̤͍̭̩͊̊̽̐͛̅́̓͊͝P̷̝̀̿̃̀͑̐̅̕P̷͓̼̹̍̀́̉͝
 ̴̢̧̛͚̲̯̹̑̾͑̄̓͋̈́̕͘͠͠
     
-    • Effect - ??? Ancient legends only describe this with one word: Death. 
+    • Effect - ??? No scouts survived the investigation. Only a piece of stone was left that had DEATH engraved with human nails
     
 </details>
 
