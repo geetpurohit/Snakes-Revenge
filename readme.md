@@ -34,7 +34,9 @@ Snake-kun sucessfully performed the Summoning Jutsu and is back in the digital w
   <summary> The Essence of Time </summary>
 <img src="time.PNG"/>
     
-    The Essence of Time is the sister to the Permissibility of Space. Together, the sisters Space-Time weave the Universe you and I live in. Our scouts have investigated the following: 
+    The Essence of Time is the sister to the Permissibility of Space. 
+    Together, the sisters Space-Time weave the Universe you and 
+    I live in. Our scouts have investigated the following: 
     
     • Effect - Every time the Snake consumes the Essence of Time, it goes beserk and gains 400% move speed. 
     
