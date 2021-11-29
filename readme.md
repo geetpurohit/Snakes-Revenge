@@ -50,3 +50,15 @@ Snake-kun sucessfully performed the Summoning Jutsu and is back in the digital w
     
 </details>
 
+
+# DEMO GAMEPLAY
+This game seems easy, but with The Ancient Exponen
+
+https://user-images.githubusercontent.com/68968629/143848822-6a672c11-80f2-4626-a4e0-57eb88dcace7.mp4
+
+
+
+t, it is *exponentially* harder.
+
+
+
